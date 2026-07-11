@@ -1,0 +1,16 @@
+services:
+  eventcraft:
+    build: .
+    container_name: eventcraft
+    restart: unless-stopped
+    ports:
+      - "5368:5368"
+    environment:
+      - PORT=5368
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/eventcraft.db
+    volumes:
+      - eventcraft-data:/app/data
+
+volumes:
+  eventcraft-data:
