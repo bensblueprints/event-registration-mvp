@@ -12,7 +12,7 @@ Eventbrite charges **2.7% + $0.79 per ticket, on every ticket, forever**. Sell 5
 
 Don't want to touch a terminal? Grab the packaged Windows installer (and support development):
 
-**→ [Get Eventcraft on Whop](https://whop.com/onetime-suite)** — pay once, own it forever.
+**→ [Get Eventcraft on Whop](https://whop.com/benjisaiempire/eventcraft-app)** — pay once, own it forever.
 
 ## Features
 
