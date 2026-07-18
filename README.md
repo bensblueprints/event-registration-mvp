@@ -1,5 +1,9 @@
 # 🎟 Eventcraft
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Event registration and ticketing you buy once — with zero per-ticket fees.** Build an event page, sell ticket tiers with early-bird pricing, take registrations with your own custom questions, email QR-code tickets, scan attendees in at the door with any webcam or phone camera, and let the waitlist manage itself. Money is handled by *your* Stripe Payment Link — Eventcraft never touches the funds and never takes a cut.
